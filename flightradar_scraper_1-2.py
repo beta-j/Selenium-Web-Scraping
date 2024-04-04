@@ -3,6 +3,7 @@
 # DATE      04-DEC-2023
 # AUTHOR    JAMES BALDACCHINO
 
+## If you are using this with PowerBI - set it to look for a .csv file with the filename specified in dest_filename at the location specified by dest_directory
 
 import glob
 import os.path
